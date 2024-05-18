@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/rajsite/static/css/main.e2ce3ba6.css",
+    "main.js": "/rajsite/static/js/main.dd3a49c5.js",
+    "static/media/marketing.avif": "/rajsite/static/media/marketing.acf1307993dea41029bc.avif",
+    "static/media/Software_dev.jpeg": "/rajsite/static/media/Software_dev.f5026b029991879d35f7.jpeg",
+    "static/media/web_dev.jpeg": "/rajsite/static/media/web_dev.949f1ca9c84338652a3b.jpeg",
+    "static/media/App_dev.jpeg": "/rajsite/static/media/App_dev.4801aa859d1644b402e8.jpeg",
+    "static/media/car.svg": "/rajsite/static/media/car.8b7335dab3d00a81f44fccf28468bb35.svg",
+    "static/media/notification.svg?s3g3t9": "/rajsite/static/media/notification.5d0158671dd860c714c4.svg",
+    "static/media/notification.eot": "/rajsite/static/media/notification.3657084dc0419605a91c.eot",
+    "static/media/notification.woff?s3g3t9": "/rajsite/static/media/notification.c392cd33d9d9de730f9d.woff",
+    "static/media/notification.ttf?s3g3t9": "/rajsite/static/media/notification.c5d9251ea82e42f75381.ttf",
+    "static/media/react.svg": "/rajsite/static/media/react.0deaa10122ebd8b25c797e3378e5cd99.svg",
+    "index.html": "/rajsite/index.html",
+    "main.e2ce3ba6.css.map": "/rajsite/static/css/main.e2ce3ba6.css.map",
+    "main.dd3a49c5.js.map": "/rajsite/static/js/main.dd3a49c5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e2ce3ba6.css",
+    "static/js/main.dd3a49c5.js"
+  ]
+}
