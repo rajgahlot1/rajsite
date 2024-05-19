@@ -2,7 +2,7 @@ import 'bootstrap/dist/css/bootstrap.css'
 import 'bootstrap/dist/js/bootstrap.bundle.js'
 import './Sites.css'
 
-import { BrowserRouter, Route, Routes } from "react-router-dom"
+import { BrowserRouter, Route, Routes,Navigate } from "react-router-dom"
 import Header from './Header.jsx'
 import Home from './Home.jsx'
 import About from "./About.jsx"
@@ -13,10 +13,12 @@ const App=()=>{
         <BrowserRouter>
         <Header/>
         <Routes>
+<Route path=" " element={<Home/>}/>
 <Route path="/" element={<Home/>}/>
 <Route path="/about"  element={<About/>}/>
 <Route path="/service" element={<Service/>} />
             <Route path="/contact" element={<Contact/>} />
+            <Route path="*" element={<Navigate to="/" replace />}/>
         </Routes>
         </BrowserRouter>
     )
